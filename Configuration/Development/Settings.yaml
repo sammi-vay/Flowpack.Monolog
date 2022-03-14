@@ -4,7 +4,7 @@ Neos:
       psr3:
         loggerFactory: Flowpack\Monolog\LoggerFactory
         'Flowpack\Monolog\LoggerFactory':
-          # Settings for TYPO3 Flow's default loggers
+          # Settings for Neos Flow's default loggers
           systemLogger:
             handler:
               streamHandler:
