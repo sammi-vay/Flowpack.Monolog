@@ -18,7 +18,7 @@ Installation
 ------------
 Use composer to install this package:
 
-`composer install flowpack/monolog`
+`composer require flowpack/monolog`
 
 All Framework logs should now be in monolog format and you need to add configuration for any other logs you might want.
 
